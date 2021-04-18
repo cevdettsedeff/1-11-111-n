@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//cevdettsedeff
+
 void main()
 	{
 	int adet,i;
@@ -29,15 +31,4 @@ void main()
 
 	
 	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
 
